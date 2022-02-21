@@ -23,9 +23,12 @@ Exploratory Findings:
       Lower total transaction count
       Lower transaction count change Q4 to Q1
       Lower utilization ratio
+      
+    ![Image](pic2.png)
+    
 
 Linear Regression Model:
-    (https://user-images.githubusercontent.com/99994988/154861102-ef3fc066-29f1-4270-a825-49f769595c6b.png)
+
 
 
 
