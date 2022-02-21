@@ -8,12 +8,17 @@ Background:
 Objective:
 
 1.Explore and visualize the dataset.
+
 2.To predict and forecast if the customer would stay or leave the current credit card he is having. 
+
 3.To create a best fit model using Logistic Regression, Decision Tree and Random Forest.
+
 4.To calculate the Accuracy, Precision and Recall for the models to decide which classification technique gives the best result.
+
 5.As per this classification problem, focus is to build a model with maximum recall.
 
 Some of the Exploratory Findings are:
+
   Attrited customers have :
       Lesser number of products   with the bank
       Higher number of inactive months in last 12 months
@@ -25,11 +30,13 @@ Some of the Exploratory Findings are:
       Lower utilization ratio
       
       
-<img src="https://user-images.githubusercontent.com/99994988/154917047-311f2d63-943a-4bbe-8b37-31a47171e3b5.png" width="400" height="400" align="centre">
+ <img src="https://user-images.githubusercontent.com/99994988/154917274-c2df74e6-8bf3-46de-b8cc-31c56718f938.png" width="500" height="400" align="right">
 
-<img src="https://user-images.githubusercontent.com/99994988/154917274-c2df74e6-8bf3-46de-b8cc-31c56718f938.png" width="500" height="500" align="centre">
+<img src="https://user-images.githubusercontent.com/99994988/154917047-311f2d63-943a-4bbe-8b37-31a47171e3b5.png" width="300" height="300" >
 
-<img src="https://user-images.githubusercontent.com/99994988/154917487-4e4822d8-69ce-478c-8ae6-68f2efa43ed9.png" width="700" height="500" align="centre">
+
+<img src="https://user-images.githubusercontent.com/99994988/154936765-3ccdc0bd-9076-4a63-b895-2e6ca04dc75b.png" width="600" height="400" >
+
 
 Models used for Prediction:
 
@@ -37,7 +44,7 @@ Logistic Regression Model with AUC 73.4%
 Decision Tree AUC 91.2%
 Random Forest AUC 98.1%
 
-<img src="https://user-images.githubusercontent.com/99994988/154925297-0562a04c-916b-46c2-af27-5f7ba5f9d580.png" width="700" height="500" align="centre">
+<img src="https://user-images.githubusercontent.com/99994988/154925297-0562a04c-916b-46c2-af27-5f7ba5f9d580.png" width="500" height="4" align="centre">
 
 
 Comapring the Accuracy, Precision, Recall, AUC and F1 Score
